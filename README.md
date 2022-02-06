@@ -49,7 +49,6 @@
 	<code><img title="Git" height="25" src="images/git-original.svg"></code>
 	<code><img title="GitHub" height="25" src="images/github.svg"></code>
 	<code><img title="npm" height="25" src="images/npm.svg"></code>
-	<code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
 </div>
 
 <br>
