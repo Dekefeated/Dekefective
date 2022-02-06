@@ -1,11 +1,12 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dekefective">
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dekefective"> -->
 
 <h5 align="center">
-	<code><a href="https://www.dekefective.com" title="Portfolio Website"><img width="22" src="images/website.svg"> Website</a></code>
-	<code><a href="https://www.linkedin.com/in/ctonucci/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+	<code><a href="https://codepen.io/Dekefective" title="Codepen Profile"><img width="22" src="images/codepen.svg"> Codepen</a></code>
 	<code><a href="https://www.instagram.com/dekefective/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-	<code><a href="https://www.twitter.com/dekefective/" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
+	<code><a href="https://www.linkedin.com/in/ctonucci/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 	<code><a href="https://www.twitch.com/dekefective/" title="Instagram Profile"><img width="22" src="images/twitch.svg"> Twitch</a></code>
+	<code><a href="https://www.twitter.com/dekefective/" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
+	<code><a href="https://www.dekefective.com" title="Portfolio Website"><img width="22" src="images/website.svg"> Website</a></code>
 </h5>
 <br>
 <p align="center">
